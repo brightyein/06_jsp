@@ -1,0 +1,5 @@
+package com.ohgiraffers.eljst1.model.dto;
+
+public class MembeerDto {
+
+}

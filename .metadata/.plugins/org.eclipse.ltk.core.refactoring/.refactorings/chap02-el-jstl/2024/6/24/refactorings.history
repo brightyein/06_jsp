@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;chap02-el-jstl/src/main/java/com/ohgiraffers/eljst1/model/dto/MembeerDto.java&apos; to &apos;MemberDto.java&apos;" description="Rename resource &apos;MembeerDto.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/ohgiraffers/eljst1/model/dto/MembeerDto.java" name="MemberDto.java" stamp="1717997949053" updateReferences="true"/>
+</session>

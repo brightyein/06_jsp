@@ -1,0 +1,21 @@
+INDEX VERSION 1.134
+D:\workspace\02_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2434385174.index
+\chap02-el-jstl\src\main\java
+D:\workspace\02_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\766484650.index
+\chap02-el-jstl\src\main\java
+D:\workspace\02_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1995161870.index
+\chap01-jsp\src\main\java
+D:\workspace\02_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4211144412.index
+\chap02-el-jstl(2)\src\main\java
+D:\workspace\02_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\281666599.index
+\practice0610\src\main\java
+D:\workspace\02_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\441976028.index
+\chap02-el-jstl\src\main\java
+D:\workspace\02_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\605410399.index
+\chap02-el-jstl(2)\src\main\java
+D:\workspace\02_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3314945939.index
+\chap01-jsp\src\main\java
+D:\workspace\02_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1255068617.index
+\chap02-el-jstl(2)\src\main\java
+D:\workspace\02_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2026131807.index
+\chap02-el-jstl(2)\src\main\java
